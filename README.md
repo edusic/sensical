@@ -34,6 +34,7 @@ Source paper:  https://www.tandfonline.com/doi/abs/10.1080/10447318.2018.1427830
 - https://arxiv.org/pdf/2003.07372.pdf
 - https://arxiv.org/pdf/2003.07602.pdf
 - https://usc-melady.github.io/COVID-19-Tweet-Analysis/
+- https://support.gnip.com/sources/twitter/data_format.html
 
 ## etc.
 
